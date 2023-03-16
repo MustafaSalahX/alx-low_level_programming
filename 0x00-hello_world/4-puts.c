@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- *Hello world 
+ *main - main entry poin 
+ *return : always 0 Ok
  */
 int main(void)
 {
